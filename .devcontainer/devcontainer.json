@@ -2,7 +2,7 @@
 	"name": "retool-apps",
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
     "mounts": [
-		"source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/home/vscode/.ssh,type=bind"
+		"source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/home/node/.ssh,type=bind"
 	],
 	"postCreateCommand": "${containerWorkspaceFolder}/.devcontainer/post-create.sh ${containerWorkspaceFolder}",
 	"customizations": {
