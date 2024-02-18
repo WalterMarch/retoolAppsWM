@@ -1,5 +1,5 @@
 {
-	"name": "retool-apps",
+	"name": "retoolAppsWM",
 	"image": "mcr.microsoft.com/devcontainers/javascript-node:1-20-bullseye",
     "mounts": [
 		"source=${localEnv:HOME}${localEnv:USERPROFILE}/.ssh,target=/home/node/.ssh,type=bind"
