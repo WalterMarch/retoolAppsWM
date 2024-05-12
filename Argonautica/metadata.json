@@ -7,6 +7,12 @@
       "object": {
         "textContainerSubtitle": {
           "array": []
+        },
+        "jsUpdateVersion": {
+          "array": []
+        },
+        "varMajorVersion": {
+          "array": []
         }
       }
     },
