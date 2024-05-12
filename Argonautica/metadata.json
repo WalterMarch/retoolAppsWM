@@ -3,8 +3,22 @@
   "version": "43.0.9",
   "pageUuid": "6d5a09e2-c389-11ee-a15e-8b2fc0c51924",
   "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "textContainerSubtitle": {
+          "array": []
+        }
+      }
+    },
+    "notificationsSettings": {
+      "object": {
+        "globalQueryShowFailureToast": true,
+        "globalQueryShowSuccessToast": false,
+        "globalQueryToastDuration": 4.5
+      }
+    },
     "shortlink": false,
-    "version": "3.33.0",
+    "version": "3.53.0",
     "experimentalDataTabEnabled": true
   }
 }

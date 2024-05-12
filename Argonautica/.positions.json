@@ -48,7 +48,7 @@
     "height": 0.6,
     "width": 9
   },
-  "text1": {
+  "textContainerSubtitle": {
     "container": "containerApp",
     "rowGroup": "header",
     "row": 1,
