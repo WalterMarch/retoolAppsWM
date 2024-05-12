@@ -14,6 +14,7 @@
   <Header>
     <Text
       id="modalTitleInfo"
+      marginType="normal"
       value="### About Argonautica"
       verticalAlign="center"
     />
@@ -21,6 +22,7 @@
       id="modalCloseButtonInfo"
       horizontalAlign="right"
       iconBefore="bold/interface-delete-1"
+      marginType="normal"
       style={{ ordered: [{ border: "transparent" }] }}
       styleVariant="outline"
     >
@@ -38,11 +40,13 @@
   <Body>
     <Text
       id="textVersion"
+      marginType="normal"
       value="Argonautica v0.202402041547"
       verticalAlign="center"
     />
     <Text
       id="textCopyright"
+      marginType="normal"
       value="Copyright (C) Feb 4, 2024 Walter March; MIT License"
       verticalAlign="center"
     />
