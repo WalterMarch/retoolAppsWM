@@ -1,0 +1,1 @@
+SELECT * FROM app_versions WHERE app_name = {{ inputAppName.value }}
