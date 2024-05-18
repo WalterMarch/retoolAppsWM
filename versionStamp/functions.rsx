@@ -96,7 +96,7 @@
   <State
     id="varVersionStampInfo"
     value={
-      '{\n  "AppName": {{ retoolContext.appName.split("/")[1]}},\n  "Copyright": "Copyright (C) May 17, 2024 Walter March; MIT License",\n  "Developer": "admin"\n}'
+      '{\n  "AppName": "versionStamp",\n  "Copyright": "Copyright (C) May 17, 2024 Walter March; MIT License",\n  "Developer": "admin"\n}'
     }
   />
 </GlobalFunctions>
