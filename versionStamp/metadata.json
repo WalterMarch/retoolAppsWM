@@ -1,0 +1,184 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "87bf43d2-129a-11ef-9429-3bd74908f524",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "input": {
+          "array": []
+        },
+        "inputM": {
+          "array": []
+        },
+        "inputMar": {
+          "array": []
+        },
+        "inputMa": {
+          "array": []
+        },
+        "inputMajor": {
+          "array": []
+        },
+        "inputMajorV": {
+          "array": []
+        },
+        "inputMajorVer": {
+          "array": []
+        },
+        "inputMajorVersion": {
+          "array": []
+        },
+        "inputm": {
+          "array": []
+        },
+        "inputminor": {
+          "array": []
+        },
+        "inputMin": {
+          "array": []
+        },
+        "inputMinor": {
+          "array": []
+        },
+        "inputMinorVersion": {
+          "array": []
+        },
+        "inputA": {
+          "array": []
+        },
+        "inputApp": {
+          "array": []
+        },
+        "inputAppNam": {
+          "array": []
+        },
+        "inputAppName": {
+          "array": []
+        },
+        "inputC": {
+          "array": []
+        },
+        "inputCop": {
+          "array": []
+        },
+        "inputCopy": {
+          "array": []
+        },
+        "inputCopyright": {
+          "array": []
+        },
+        "varOutputMinorVersion": {
+          "array": []
+        },
+        "output": {
+          "array": []
+        },
+        "outputMin": {
+          "array": []
+        },
+        "outputMincor": {
+          "array": []
+        },
+        "outputMinc": {
+          "array": []
+        },
+        "outputMinor": {
+          "array": []
+        },
+        "outputMinorVersion": {
+          "array": []
+        },
+        "inputDe": {
+          "array": []
+        },
+        "inputDeveloper": {
+          "array": []
+        },
+        "inputDeveloperG": {
+          "array": []
+        },
+        "inputDeveloperGrou": {
+          "array": []
+        },
+        "inputDeveloperGroup": {
+          "array": []
+        },
+        "jsIsDeveloper": {
+          "array": []
+        },
+        "buttonUpdateVersion": {
+          "array": []
+        },
+        "containerMain": {
+          "array": []
+        },
+        "containerMainTitle": {
+          "array": []
+        },
+        "inputDeveloperGr": {
+          "array": []
+        },
+        "queryCheckForApp": {
+          "array": []
+        },
+        "jsAppCheck": {
+          "array": []
+        },
+        "queryInsertNewApp": {
+          "array": []
+        },
+        "jsVersion": {
+          "array": []
+        },
+        "queryUpdateVersion": {
+          "array": []
+        },
+        "jsAddApp": {
+          "array": []
+        },
+        "varVersionStampInfo": {
+          "array": []
+        },
+        "jsUpdateOrInsertApp": {
+          "array": []
+        },
+        "jsInsertApp": {
+          "array": []
+        },
+        "jsUpdateApp": {
+          "array": []
+        },
+        "jsButtonIngoClick": {
+          "array": []
+        },
+        "jsButtonInfoClick": {
+          "array": []
+        },
+        "jsGenerateVersionNumber": {
+          "array": []
+        },
+        "jsBranchUpdateOrInsert": {
+          "array": []
+        },
+        "modalInfo": {
+          "array": []
+        },
+        "modalInfoTitle": {
+          "array": []
+        },
+        "textModalInfoVersion": {
+          "array": []
+        },
+        "modalInfoCloseButton": {
+          "array": []
+        },
+        "textModalInfoCopyright": {
+          "array": []
+        }
+      }
+    },
+    "isGlobalWidget": true,
+    "version": "3.55.0"
+  }
+}

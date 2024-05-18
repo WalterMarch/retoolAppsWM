@@ -1,0 +1,56 @@
+{
+  "buttonInfo": {
+    "container": "containerMain",
+    "subcontainer": "f079e",
+    "height": 1,
+    "width": 12
+  },
+  "buttonUpdateVersion": {
+    "subcontainer": "modalInfo",
+    "col": 10,
+    "height": 1.2,
+    "width": 2
+  },
+  "containerMain": {
+    "container": "moduleContainer",
+    "height": 0.2,
+    "width": 12
+  },
+  "containerMainTitle": {
+    "container": "containerMain",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "modalInfoCloseButton": {
+    "container": "moduleContainer",
+    "rowGroup": "header",
+    "subcontainer": "modalInfo",
+    "col": 9,
+    "height": 1
+  },
+  "modalInfoTitle": {
+    "container": "moduleContainer",
+    "rowGroup": "header",
+    "subcontainer": "modalInfo",
+    "height": 0.6,
+    "width": 9
+  },
+  "moduleContainer": {
+    "height": 1,
+    "width": 1
+  },
+  "textModalInfoCopyright": {
+    "container": "moduleContainer",
+    "subcontainer": "modalInfo",
+    "row": 0.6,
+    "height": 0.6,
+    "width": 10
+  },
+  "textModalInfoVersion": {
+    "container": "moduleContainer",
+    "subcontainer": "modalInfo",
+    "height": 0.6,
+    "width": 10
+  }
+}
