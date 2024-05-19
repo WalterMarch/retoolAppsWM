@@ -92,6 +92,13 @@
       resourceName="JavascriptQuery"
       showSuccessToaster={false}
     />
+    <JavascriptQuery
+      id="jsAboutJsonToClipboard"
+      notificationDuration={4.5}
+      query={include("./lib/jsAboutJsonToClipboard.js", "string")}
+      resourceName="JavascriptQuery"
+      showSuccessToaster={false}
+    />
   </Folder>
   <State
     id="varVersionStampInfo"
