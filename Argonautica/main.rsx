@@ -11,5 +11,21 @@
     type="main"
   >
     <Include src="./src/containerApp.rsx" />
+    <Button
+      id="buttonInfo"
+      iconAfter="bold/interface-alert-information-circle-alternate"
+      marginType="normal"
+      styleVariant="outline"
+    >
+      <Event
+        event="click"
+        method="show"
+        params={{ ordered: [] }}
+        pluginId="modalFrameInfo"
+        type="widget"
+        waitMs="0"
+        waitType="debounce"
+      />
+    </Button>
   </Frame>
 </App>
