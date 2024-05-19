@@ -175,6 +175,12 @@
         },
         "textModalInfoCopyright": {
           "array": []
+        },
+        "splitButtonCopy": {
+          "array": []
+        },
+        "jsAboutJsonToClipboard": {
+          "array": []
         }
       }
     },
