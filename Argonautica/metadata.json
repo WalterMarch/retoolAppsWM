@@ -13,6 +13,27 @@
         },
         "varMajorVersion": {
           "array": []
+        },
+        "varMinorVersion": {
+          "array": []
+        },
+        "varCopyrightInfo": {
+          "array": []
+        },
+        "varAppName": {
+          "array": []
+        },
+        "varDeveloperGroup": {
+          "array": []
+        },
+        "qryVersionChange": {
+          "array": []
+        },
+        "jsUpdateMinorVersion": {
+          "array": []
+        },
+        "textMinorVersion": {
+          "array": []
         }
       }
     },
@@ -24,7 +45,7 @@
       }
     },
     "shortlink": false,
-    "version": "3.53.0",
+    "version": "3.55.0",
     "experimentalDataTabEnabled": true
   }
 }

@@ -14,22 +14,17 @@
       value="# Argonautica"
       verticalAlign="center"
     />
-    <Button
-      id="buttonInfo"
-      iconAfter="bold/interface-alert-information-circle-alternate"
-      marginType="normal"
-      styleVariant="outline"
-    >
-      <Event
-        event="click"
-        method="show"
-        params={{ ordered: [] }}
-        pluginId="modalFrameInfo"
-        type="widget"
-        waitMs="0"
-        waitType="debounce"
-      />
-    </Button>
+    <Module
+      id="versionStamp1"
+      inputAppName={'{{retoolContext.appName.split("/")[1]}}'}
+      inputCopyright="{{varCopyrightInfo.value}}"
+      inputDeveloper="admin"
+      inputDeveloperGroup="{{varDeveloperGroup.value}}"
+      inputMajorVersion="{{varMajorVersion.value}}"
+      inputMinorVersion="{{varMinorVersion.value}}"
+      name="versionStamp"
+      pageUuid="87bf43d2-129a-11ef-9429-3bd74908f524"
+    />
     <Text
       id="textContainerSubtitle"
       marginType="normal"
